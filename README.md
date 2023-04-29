@@ -5,7 +5,7 @@
 ![body](https://capsule-render.vercel.app/api?type=cylinder&&color=gradient&customColorList=0,2,3&text=Welcome+to+Haejin's+GitHub!&height=200&fontSize=40)
 
 
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Haejin's+GitHub!👋)](https://git.io/typing-svg) -->
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Mason's+GitHub!👋)](https://git.io/typing-svg) -->
  
  
 <br> <br>
